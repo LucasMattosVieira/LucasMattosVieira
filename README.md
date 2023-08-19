@@ -2,7 +2,7 @@
 
 I’m a Computer Science student with an interest in foreign languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMattosVieira&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMattosVieira&layout=compact&theme=dark)
 
 <!--
 **LucasMattosVieira/LucasMattosVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
