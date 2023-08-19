@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a Computer Science student with an interest in foreign languages
+I’m a Computer Science student with an interest in foreign languages.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMattosVieira&layout=compact&theme=dark)
 
